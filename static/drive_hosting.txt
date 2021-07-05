@@ -1,0 +1,7 @@
+Hebergement sur Drive
+
+1) renommer le dossier : www.mysite.com
+2) se rendre sur le site : drv.tw
+3) selectionner un compte drive 
+4) copier l'addresse disponible sur drv.tw
+5) configurer la redirection du DNS
